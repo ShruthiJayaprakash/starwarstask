@@ -1,2 +1,0 @@
-# starwarstask
-Created with CodeSandbox
